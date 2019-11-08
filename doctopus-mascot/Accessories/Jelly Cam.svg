@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="473px" height="379px" viewBox="0 0 473 379" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Jelly Cam</title>
+    <desc>Created with Sketch.</desc>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-4396.000000, -510.000000)">
+            <g jetway-hook-id="9FA8C6CD-7437-499A-BFD2-7ABBF8A28328" id="Jelly-Cam" transform="translate(4396.000000, 510.000000)">
+                <rect jetway-hook-id="CCC48322-49CA-40EE-8404-01E99E9D099F" id="Rectangle" fill="#F5E7FF" x="0" y="36" width="473" height="343" rx="35"></rect>
+                <circle jetway-hook-id="B470DD60-CBE2-49BD-A28B-1F68C59AA9CA" id="Oval" fill="#EED0FF" cx="235.5" cy="209.5" r="107.5"></circle>
+                <path d="M37.6583254,116.733718 C47.0491094,116.736048 57.6532808,86.8203225 57.6500651,74.8991921 C57.6468479,62.9780617 50.0315059,53.312187 40.6407219,53.3098563 C31.2499379,53.3075265 23.6398107,62.9696231 23.6430262,74.8907535 C23.6462437,86.8118839 28.2675414,116.731388 37.6583254,116.733718 Z" jetway-hook-id="90173FDD-9622-4E5D-9543-69136E03E548" id="Oval-Copy-3" fill="#FFFFFF" transform="translate(40.646546, 85.021787) scale(-1, 1) rotate(-8.000000) translate(-40.646546, -85.021787) "></path>
+                <path d="M160.938928,174.800063 C165.208427,174.800063 170.033014,160.938623 170.033014,155.415441 C170.033014,149.892259 166.571774,145.414798 162.302275,145.414798 C158.032775,145.414798 154.571789,149.892185 154.571789,155.415367 C154.571789,160.938549 156.669428,174.800063 160.938928,174.800063 Z" jetway-hook-id="6DD6D927-AF24-4FC8-9E2A-E058A973CFB6" id="Oval-Copy-9" fill="#FFFFFF" transform="translate(162.302402, 160.107430) scale(-1, 1) rotate(-34.000000) translate(-162.302402, -160.107430) "></path>
+                <rect jetway-hook-id="97ACF060-7C7F-4C9C-A826-8C555B242710" id="Rectangle" fill="#F3E8FD" x="169" y="0" width="185" height="63" rx="31.5"></rect>
+                <rect jetway-hook-id="31E088AE-A0F8-4E16-94AB-E707179911B3" id="Rectangle" fill="#D2E3FC" x="71" y="0" width="57" height="37" rx="18.5"></rect>
+                <circle jetway-hook-id="3E0CDF46-2B7A-409E-B3AB-57A64CFC4057" id="Oval" fill="#DA0089" opacity="0.350957961" cx="234.5" cy="210.5" r="66.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

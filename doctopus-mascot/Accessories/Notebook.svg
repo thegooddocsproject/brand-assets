@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="281px" height="403px" viewBox="0 0 281 403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Notebook</title>
+    <desc>Created with Sketch.</desc>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-3175.000000, -2559.000000)">
+            <g jetway-hook-id="7D98D02B-F168-4679-8320-000DA9CDB469" id="Notebook" transform="translate(3175.000000, 2559.000000)">
+                <rect jetway-hook-id="8B1E5CDD-798F-4E4A-84CF-44EC19C773CC" id="Rectangle" fill="#4682F4" opacity="0.188406808" x="0" y="0" width="281" height="403" rx="47"></rect>
+                <path d="M32.36,141 C36.807287,141 41,67.8071187 41,54 C41,40.1928813 36.9705627,29 32,29 C27.0294373,29 23,40.1928813 23,54 C23,67.8071187 27.912713,141 32.36,141 Z" jetway-hook-id="ED3DB214-324F-44CB-B22D-C5918F50AB8F" id="Oval" fill="#FFFFFF"></path>
+                <path d="M151,0 L242,0 L242,94.520988 C242,102.252975 235.731986,108.520988 228,108.520988 C225.187984,108.520988 222.441135,107.67418 220.11723,106.09086 L196.5,90 L196.5,90 L172.88277,106.09086 C166.492906,110.444394 157.783662,108.793622 153.430128,102.403758 C151.846808,100.079853 151,97.3330044 151,94.520988 L151,0 L151,0 Z" jetway-hook-id="C0753F4A-4280-4C19-85A4-77119B00854F" id="Path-4" fill="#4682F4" opacity="0.356956845"></path>
+            </g>
+        </g>
+    </g>
+</svg>

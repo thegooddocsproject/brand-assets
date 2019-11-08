@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="558px" height="523px" viewBox="0 0 558 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>TypeWriter</title>
+    <desc>Created with Sketch.</desc>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-2412.000000, -451.000000)">
+            <g jetway-hook-id="66D3ED4D-0236-4D4A-AA65-5E168552F806" id="TypeWriter" transform="translate(2412.000000, 451.000000)">
+                <path d="M507,265 L532.097,394 L535,394 C547.150264,394 557,403.849736 557,416 L557,501 C557,513.150264 547.150264,523 535,523 L22,523 C9.8497355,523 1.48797825e-15,513.150264 0,501 L0,416 C-1.48797825e-15,403.849736 9.8497355,394 22,394 L29.685,394 L60,265 L507,265 Z" jetway-hook-id="8D2CC57C-260F-4B26-A5FA-1B85C163355B" id="Combined-Shape" fill="#00AC47" opacity="0.13327753"></path>
+                <rect jetway-hook-id="FEE5D5AA-70BF-4571-9DBF-2B206A67CBD5" id="Rectangle" fill="#00C4E4" opacity="0.305338542" x="1" y="179" width="557" height="87" rx="43.5"></rect>
+                <rect jetway-hook-id="FA9EDE1B-0793-4A67-BDEB-635FD8E2473D" id="Rectangle-Copy-14" fill="#00AC47" opacity="0.12844122" x="47" y="92" width="464" height="87" rx="43.5"></rect>
+                <path d="M197,0 L363,0 C386.748244,-4.36248169e-15 406,19.2517558 406,43 L406,179 L406,179 L154,179 L154,43 C154,19.2517558 173.251756,4.36248169e-15 197,0 Z" jetway-hook-id="1309DD31-57CC-49F6-B8B7-70E791BC0401" id="Rectangle" fill="#4682F4" opacity="0.202218192"></path>
+                <rect jetway-hook-id="5B14D004-5553-4042-9226-827F136C2619" id="Rectangle-Copy-27" fill="#4682F4" opacity="0.457984561" x="181" y="54" width="200" height="24"></rect>
+                <rect jetway-hook-id="2A0B9F05-406E-4E22-8DCF-1AF68CDF98FC" id="Rectangle-Copy-28" fill="#4682F4" opacity="0.457984561" x="180" y="106" width="117" height="24"></rect>
+                <rect jetway-hook-id="8B5545FD-452A-46F0-96DD-A374E12B41B8" id="Rectangle" fill="#2FC0E0" opacity="0.338239397" x="442" y="41" width="54" height="37" rx="18.5"></rect>
+                <circle jetway-hook-id="7D383CF8-7212-4012-821F-7880A129A101" id="Oval" fill="#00C4E4" opacity="0.174386161" cx="134" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="5A0ECB5A-24C7-4EDD-8614-8C7D12CC6C27" id="Oval-Copy-41" fill="#00C4E4" opacity="0.174386161" cx="89.5" cy="400.833333" rx="18.5" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="C2972DE9-3FDF-4A0A-B509-137E46A07BF4" id="Oval-Copy-31" fill="#00C4E4" opacity="0.174386161" cx="194" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="517D78AF-86F5-4A65-803A-FE41762C9966" id="Oval-Copy-42" fill="#00C4E4" opacity="0.174386161" cx="165" cy="400.833333" rx="19" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="D4BAD91F-E2B9-413B-83B7-F30C52B79F0F" id="Oval-Copy-33" fill="#00C4E4" opacity="0.174386161" cx="254" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="FEECA983-DFB2-49C0-9C50-03EE96331DD2" id="Oval-Copy-43" fill="#00C4E4" opacity="0.174386161" cx="241" cy="400.833333" rx="19" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="B12D1EDC-7657-45A5-84E0-8503DCA07353" id="Oval-Copy-35" fill="#00C4E4" opacity="0.174386161" cx="314" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="0FF84F42-4828-47C2-833B-D026738B37E2" id="Oval-Copy-44" fill="#00C4E4" opacity="0.174386161" cx="316.5" cy="400.833333" rx="18.5" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="24B1196C-3882-4F79-8FF2-94BB7B4E2670" id="Oval-Copy-37" fill="#00C4E4" opacity="0.174386161" cx="374" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="D7DC99C0-64A5-461B-A6BD-668C5A855F56" id="Oval-Copy-45" fill="#00C4E4" opacity="0.174386161" cx="392" cy="400.833333" rx="19" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="1DCFF0C1-9049-45E5-A64F-1E6CA45E5709" id="Oval-Copy-39" fill="#00C4E4" opacity="0.174386161" cx="434" cy="309" r="15"></circle>
+                <ellipse jetway-hook-id="24D43E9C-524D-4E4D-ADD1-54B2EB844C4F" id="Oval-Copy-46" fill="#00C4E4" opacity="0.174386161" cx="468" cy="401.288889" rx="19" ry="18.8333333"></ellipse>
+                <circle jetway-hook-id="47749DE9-15AD-4F61-A417-F7654A98B162" id="Oval-Copy-30" fill="#00C4E4" opacity="0.174386161" cx="116" cy="353" r="15"></circle>
+                <circle jetway-hook-id="A85343B3-93FD-498E-BA11-98F79A869B0F" id="Oval-Copy-32" fill="#00C4E4" opacity="0.174386161" cx="182" cy="353" r="15"></circle>
+                <circle jetway-hook-id="A28F5461-052E-4DDE-A548-512A556F06B3" id="Oval-Copy-34" fill="#00C4E4" opacity="0.174386161" cx="248" cy="353" r="15"></circle>
+                <circle jetway-hook-id="639B2CAB-4ED0-4544-A406-55A7B25AF72C" id="Oval-Copy-36" fill="#00C4E4" opacity="0.174386161" cx="314" cy="353" r="15"></circle>
+                <circle jetway-hook-id="0015C7B5-7988-4184-8809-F96AFF9231F3" id="Oval-Copy-38" fill="#00C4E4" opacity="0.174386161" cx="380" cy="353" r="15"></circle>
+                <circle jetway-hook-id="E05AE04B-0BC2-4EC0-B2C0-D2ACCAA1E5EA" id="Oval-Copy-40" fill="#00C4E4" opacity="0.174386161" cx="446" cy="353" r="15"></circle>
+                <path d="M41.1730769,211 C46.7915122,211 77,207.968223 77,203.826087 C77,199.683951 46.7915122,196 41.1730769,196 C35.5546417,196 31,199.357864 31,203.5 C31,207.642136 35.5546417,211 41.1730769,211 Z" jetway-hook-id="839845ED-5D5C-4E69-B9D8-EF021107F8C4" id="Oval" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

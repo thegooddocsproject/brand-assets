@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="456px" height="199px" viewBox="0 0 456 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Eye Glasses</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="89.1816143" cy="89.8445031" rx="89.1816143" ry="89.1964286"></ellipse>
+        <ellipse id="path-3" cx="89.1816143" cy="89.8445031" rx="89.1816143" ry="89.1964286"></ellipse>
+    </defs>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-4403.000000, -1922.000000)">
+            <g jetway-hook-id="0B9FC92E-A050-468A-BCEC-E7835EB4F51F" id="Eye-Glasses" transform="translate(4395.000000, 1913.000000)">
+                <g jetway-hook-id="0E09847D-EBE8-4C09-8F6E-810CBC84EAC4" id="Group-16">
+                    <g jetway-hook-id="7A474A07-C067-47E1-985B-3137C455E17E" id="Group-12" transform="translate(107.882531, 108.557780) rotate(-13.000000) translate(-107.882531, -108.557780) translate(18.382531, 18.557780)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use jetway-hook-id="2382AFB1-BDF6-4FCC-8100-F0D2016E7327" id="Oval" stroke-opacity="0.338723776" stroke="#AE2EFD" stroke-width="20" fill-opacity="0.307091346" fill="#E6F0FF" xlink:href="#path-1"></use>
+                        <polygon jetway-hook-id="A074BE8E-7847-4887-B739-B07C9A5B531E" id="Rectangle" fill="#FFFFFF" opacity="0.51515997" mask="url(#mask-2)" transform="translate(94.484305, 81.165932) rotate(-25.000000) translate(-94.484305, -81.165932) " points="75.2074479 -16.7049382 113.773614 -16.7073919 113.761162 179.036801 75.1949954 179.039255"></polygon>
+                    </g>
+                    <path d="M53.9929012,56.8905179 C56.655497,56.8905179 58.8119135,32.2209649 58.8115038,27.2762015 C58.8110941,22.3314381 56.6523017,18.3225159 53.9897059,18.3225159 C51.3271102,18.3225159 49.1689819,22.3306392 49.1693916,27.2754027 C49.1698012,32.2201661 51.3303054,56.8905179 53.9929012,56.8905179 Z" jetway-hook-id="FABEB9F3-612E-47B2-A5CE-2E29F203811E" id="Oval" fill="#FFFFFF" transform="translate(53.990448, 37.606517) rotate(47.000000) translate(-53.990448, -37.606517) "></path>
+                </g>
+                <g jetway-hook-id="314C1431-734C-4CBA-A420-604031C5725F" id="Group-16-Copy" transform="translate(257.000000, 0.000000)">
+                    <g jetway-hook-id="6ACE43E4-F49E-4F0F-A0A6-48CD483ECD9F" id="Group-12" transform="translate(107.882531, 108.557780) rotate(-13.000000) translate(-107.882531, -108.557780) translate(18.382531, 18.557780)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use jetway-hook-id="CADDC806-4DBA-464B-A30F-C671F2760332" id="Oval" stroke-opacity="0.338723776" stroke="#AE2EFD" stroke-width="20" fill-opacity="0.307091346" fill="#E6F0FF" xlink:href="#path-3"></use>
+                        <polygon jetway-hook-id="4356BFFB-5207-4ECA-99AB-ED21DE90F7AC" id="Rectangle" fill="#FFFFFF" opacity="0.51515997" mask="url(#mask-4)" transform="translate(94.484305, 81.165932) rotate(-25.000000) translate(-94.484305, -81.165932) " points="75.2074479 -16.7049382 113.773614 -16.7073919 113.761162 179.036801 75.1949954 179.039255"></polygon>
+                    </g>
+                    <path d="M53.9929012,56.8905179 C56.655497,56.8905179 58.8119135,32.2209649 58.8115038,27.2762015 C58.8110941,22.3314381 56.6523017,18.3225159 53.9897059,18.3225159 C51.3271102,18.3225159 49.1689819,22.3306392 49.1693916,27.2754027 C49.1698012,32.2201661 51.3303054,56.8905179 53.9929012,56.8905179 Z" jetway-hook-id="496DB8F0-372A-41E1-B9E3-E98B6C767F73" id="Oval" fill="#FFFFFF" transform="translate(53.990448, 37.606517) rotate(47.000000) translate(-53.990448, -37.606517) "></path>
+                </g>
+                <path d="M216,99 C218.40404,86.3333333 225.40404,80 237,80 C248.59596,80 255.262626,86.3333333 257,99" jetway-hook-id="72B3D64F-6271-499E-9F58-9278CD9BBCFC" id="Path-9" stroke="#EED0FF" stroke-width="10" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

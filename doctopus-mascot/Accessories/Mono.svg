@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="255px" viewBox="0 0 355 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Mono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="89.1816143" cy="89.8445031" rx="89.1816143" ry="89.1964286"></ellipse>
+    </defs>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-4855.000000, -1730.000000)">
+            <g jetway-hook-id="B0846ACA-FEAA-4889-B8AE-3910A002A6A0" id="Mono" transform="translate(4847.000000, 1721.000000)">
+                <g jetway-hook-id="89B19C7E-9F5E-4939-80F0-AEC15AC2A8E7" id="Group-16-Copy">
+                    <g jetway-hook-id="E4FD9FE8-D08E-4E64-97E6-92C9857DA335" id="Group-12" transform="translate(107.882531, 108.557780) rotate(-13.000000) translate(-107.882531, -108.557780) translate(18.382531, 18.557780)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use jetway-hook-id="04533520-A9F0-4BFB-87B6-9378B1FBDA25" id="Oval" stroke-opacity="0.2323809" stroke="#00AC47" stroke-width="20" fill-opacity="0.307091346" fill="#E6F0FF" xlink:href="#path-1"></use>
+                        <polygon jetway-hook-id="B01781E6-2A0D-449A-9F87-BD9377B9BD01" id="Rectangle" fill="#FFFFFF" opacity="0.51515997" mask="url(#mask-2)" transform="translate(94.484305, 81.165932) rotate(-25.000000) translate(-94.484305, -81.165932) " points="75.2074479 -16.7049382 113.773614 -16.7073919 113.761162 179.036801 75.1949954 179.039255"></polygon>
+                    </g>
+                    <path d="M53.9929012,56.8905179 C56.655497,56.8905179 58.8119135,32.2209649 58.8115038,27.2762015 C58.8110941,22.3314381 56.6523017,18.3225159 53.9897059,18.3225159 C51.3271102,18.3225159 49.1689819,22.3306392 49.1693916,27.2754027 C49.1698012,32.2201661 51.3303054,56.8905179 53.9929012,56.8905179 Z" jetway-hook-id="1E2A9BA8-1DA3-415F-9057-9904295A4D2F" id="Oval" fill="#FFFFFF" transform="translate(53.990448, 37.606517) rotate(47.000000) translate(-53.990448, -37.606517) "></path>
+                </g>
+                <path d="M208,222 L214.08873,236.110742 C222.622239,255.887301 245.572083,265.001594 265.348642,256.468085 C275.37067,252.143619 283.121802,243.817142 286.718838,233.51164 L320.680471,136.211619 C326.36832,119.915939 341.740196,109 359,109 L359,109 L359,109" jetway-hook-id="FF471EAE-1256-4970-95EE-FE1BDF7E46B1" id="Path-10" stroke="#C7EBD4" stroke-width="8" stroke-linecap="round" stroke-dasharray="18" transform="translate(283.500000, 218.500000) scale(-1, 1) translate(-283.500000, -218.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

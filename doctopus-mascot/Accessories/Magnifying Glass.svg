@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="286px" height="328px" viewBox="0 0 286 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Magnifying Glass</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="92.5" cy="93.1720773" r="92.5"></circle>
+    </defs>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-324.000000, -2489.000000)">
+            <g jetway-hook-id="67E3240A-7DCC-438E-AD0A-ED5F84769BB0" id="Magnifying-Glass" transform="translate(484.500000, 2663.000000) rotate(-38.000000) translate(-484.500000, -2663.000000) translate(373.000000, 2473.000000)">
+                <g jetway-hook-id="BD511D23-E2BC-4AFD-B88F-1AB41E3077FE" id="Group-16" transform="translate(0.000000, 0.704996)">
+                    <g jetway-hook-id="78FC4455-9314-4B6A-B138-0FCD5E2DEB5D" id="Group-12" transform="translate(111.500000, 112.327923) rotate(-13.000000) translate(-111.500000, -112.327923) translate(19.000000, 19.327923)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use jetway-hook-id="FE572249-C0CA-4504-A206-4C1C3153D268" id="Oval" stroke-opacity="0.495574738" stroke="#4682F4" stroke-width="40" fill-opacity="0.307091346" fill="#E6F0FF" xlink:href="#path-1"></use>
+                        <rect jetway-hook-id="698403A9-7EF7-4C71-AB1D-085E52F03283" id="Rectangle" fill="#FFFFFF" opacity="0.51515997" mask="url(#mask-2)" transform="translate(98.000000, 84.172077) rotate(-25.000000) translate(-98.000000, -84.172077) " x="78" y="-17.3279227" width="40" height="203"></rect>
+                    </g>
+                    <path d="M56,59 C58.7614237,59 61,33.4140727 61,28.2857143 C61,23.1573559 58.7614237,19 56,19 C53.2385763,19 51,23.1573559 51,28.2857143 C51,33.4140727 53.2385763,59 56,59 Z" jetway-hook-id="EEF3EE95-8F22-4859-B8FB-4F192CFFC6A8" id="Oval" fill="#FFFFFF" transform="translate(56.000000, 39.000000) rotate(47.000000) translate(-56.000000, -39.000000) "></path>
+                </g>
+                <path d="M90,224.704996 L133,224.704996 L133,358.204996 C133,370.079118 123.374122,379.704996 111.5,379.704996 C99.6258779,379.704996 90,370.079118 90,358.204996 L90,224.704996 L90,224.704996 Z" jetway-hook-id="0FB23858-ACCF-448D-B258-8C5375098BFF" id="Rectangle" fill="#D2E3FC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

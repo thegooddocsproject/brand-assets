@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="403px" viewBox="0 0 200 403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>lollipop</title>
+    <desc>Created with Sketch.</desc>
+    <g jetway-hook-id="85E6447B-1202-4846-B89B-6675F60426A8" id="R3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="D3B6EF8C-CEA8-4956-81C7-3EB1CA69E940" id="Accessories" transform="translate(-3810.000000, -2550.000000)">
+            <g jetway-hook-id="089C634F-E1B4-4126-B33F-0C26FEFE9321" id="lollipop" transform="translate(3900.005708, 2751.369266) rotate(5.000000) translate(-3900.005708, -2751.369266) translate(3801.005708, 2549.869266)">
+                <circle jetway-hook-id="2A34257F-1B59-40F7-A698-FAC6EF0E6D53" id="Combined-Shape" fill="#F334A0" opacity="0.228934152" cx="99.5" cy="86.5" r="86.5"></circle>
+                <rect jetway-hook-id="084044D0-9D13-4C87-91C5-965AFA73F23D" id="Rectangle" fill="#A139F4" opacity="0.263183594" x="90" y="162" width="20" height="241" rx="5.5"></rect>
+                <rect jetway-hook-id="16D31CB5-7C2D-4E98-989E-9B1AD0240CB3" id="Rectangle" fill="#F334A0" opacity="0.323986235" transform="translate(99.206212, 89.185370) rotate(1.000000) translate(-99.206212, -89.185370) " x="1.20621175" y="59.68537" width="196" height="59" rx="13"></rect>
+                <path d="M44.132298,53.3300912 C46.341437,53.3300912 47.8246056,41.7483692 47.8246056,37.3300912 C47.8246056,32.9118132 46.0337446,29.3300912 43.8246056,29.3300912 C41.6154666,29.3300912 39.8246056,32.9118132 39.8246056,37.3300912 C39.8246056,41.7483692 41.923159,53.3300912 44.132298,53.3300912 Z" jetway-hook-id="D2C9DBAE-AD27-4CFF-B36A-69E3E7D990FC" id="Oval" fill="#FFFFFF" transform="translate(43.824606, 41.330091) rotate(35.000000) translate(-43.824606, -41.330091) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
